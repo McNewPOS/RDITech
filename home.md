@@ -2,7 +2,7 @@
 title: Rules
 description: Rules for new users
 published: true
-date: 2025-11-15T07:08:32.127Z
+date: 2025-11-15T07:08:35.493Z
 tags: docs
 editor: markdown
 dateCreated: 2025-11-15T07:08:32.127Z
